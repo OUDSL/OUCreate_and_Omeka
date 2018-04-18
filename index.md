@@ -14,7 +14,7 @@ Anyone with an OU Login can create using OU Create. Once a website is published 
   * A tip for naming your domain: Think carefully about what you would like your domain name to be: generally speaking, OU create only allows each individual one (1) domain name, so make sure it is something relevant to you and/or your project.
 3. After selecting between Custom domain or subdomain, you will be directed to a 'Checkout' page If you selected the subdomain, your payment will be $0. Accept the Terms of Service, and click ***Order Now***.
 4. Sign out of OU Create, and then sign back in. You will now see a control panel with Applications, Domains, and Files.
-  * There are several applications you can use to build your site, but this users site was built with Omeka, so that is the one that will be detailed. for help using WordPress, visit [http://create.ou.edu/support/applications/wordpress].
+  * There are several applications you can use to build your site, but this user's site was built with Omeka, so that is the one that will be detailed. for help using WordPress, visit [http://create.ou.edu/support/applications/wordpress].
 ## Using Omeka to build your OU Create Site
 ### Installing Omeka
  1. Login to your OU Create account.
