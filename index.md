@@ -32,7 +32,7 @@ Anyone with an OU Login can create using OU Create. Once a website is published 
   5. You will now be shown a page telling you that Omeka has installed successfully, and offering you to view the ***Public Site*** that your visitors will see or the ***Administrative Dashboard*** where you can build your site.
 ## Navigating Omeka
 ### Plugins
- 1. Plugins are the building blocks to build your website. When you download Omeka, you get the most utilized plugins automatically available, but you must still install to get them running on your site. For these included plugins, simply click ***install***. You will be given options to personalize the plugin, or you may keep the default settings.
+ 1. Plugins are the building blocks to build your website. When you download Omeka, you automatically get the most utalized plugins, but you must still install to get them running on your site. For these included plugins, simply click ***install***. You will be given options to personalize the plugin, or you may keep the default settings.
   2. For Extra Omeka Plugins, you may download them from the Omeka website at [http://omeka.org/classic/plugins/]. Find the plugin you wish to download.
    3. Once the download completes, you will need to login to your OU create account, and select the ***File Manager*** under *Files*.
    4. In the left hand side of the screen, find the folder called *public_html* and click the **+** button. Scroll down and find and select the *plugins* folder.
