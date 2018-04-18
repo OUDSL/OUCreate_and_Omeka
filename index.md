@@ -22,7 +22,7 @@ Anyone with an OU Login can create using OU Create. Once a website is published 
   3. Select ***Install this Application***
   4. You will now be directed to make decisions on where to install Omeka. In many cases this will be your main domain, but if you have subdomains you can select which one to use from the dropdown menu. The latest version and English language are selected by default. You can then decide if you would like Omeka to automatically update or not and if you would to create a backup for the site prior to any update and restore this backup on the chance the update experiences an error (this is recommended).
   * You next need to enter an administrative username and password; this is how you will access the Omeka dashboard to edit your site. Also enter the email address you will use as the administer of the site, and select the name of your website: This will be the name that shows up on the web page, and does not have to match the domain name.
-   * You can use the default advanced settings, or you can customise them to personal preference: Including if you would like email notifications prior to updates and how often to automatically back-up the site.
+   * You can use the default advanced settings, or you can customize them to personal preference: Including if you would like email notifications prior to updates and how often to automatically back-up the site.
   * Once you are satisfied, click ***Install***.
 ### Setting Up Omeka on Your Site ###
  1. After installation is complete, click the website link to configure your installation.
