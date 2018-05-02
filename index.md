@@ -1,6 +1,6 @@
 ## About
-Last Updated 18 April 2018
-Created by Wendy Jordan
+Last Updated 18 April 2018    
+Created by Wendy Jordan    
 
 ## Table of Contents
 * [What is OU Create](#what-is-ou-create)
