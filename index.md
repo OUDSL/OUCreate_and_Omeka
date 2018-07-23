@@ -1,6 +1,6 @@
 ## About
-Last Updated 18 April 2018    
-Created by Wendy Jordan    
+Last Updated 23 July 2018    
+Created by Wendy Jordan | Updated by Chelsea Smith-Antonides    
 
 ## Table of Contents
 * [What is OU Create](#what-is-ou-create)
@@ -22,13 +22,16 @@ Ou Create hosts unique web domains for OU students, faculty, and staff, allowing
 [Return to Top](#about)
 
 ## Who has Access to OU Create?
-Anyone with an OU Login can create using OU Create. Once a website is published by the user, it is available to the general public, no OU login required.
+Anyone with an OU Login can create using OU Create. Once a website is published by the user, it is available to the general public (with no OU login required to view it). 
 
 [Return to Top](#about)
 
 ## Getting Started Using OU Create.
 ### Creating an account via your OU login
-1. Go to [https://create.ou.edu/](https://create.ou.edu/) and click ***Get Started***. You will be asked to enter your OU Login.
+1. Go to [https://create.ou.edu/](https://create.ou.edu/) and click **Get Started**. You will be asked to enter your OU Login.
+
+![Get Started](images/OUCreate001.png)
+
 2. You will now be asked to select your web domain name and which kind of domain you would like: **Custom Domain** or **Subdomain**: The difference between the two is cost and URL appearance.  A **Custom Domain** can be obtained for $12/year, and looks like [customdomain].com; this way has the option of ending in .org or .net as well. A **Subdomain** option from OU Create is offered for free to OU students, faculty, and staff. It looks like [freesubdomain].oucreate.com, meaning that it is rooted in OU create, but contains your personalized content. This option does not allow for .org or .net.
     - A tip for naming your domain: Think carefully about what you would like your domain name to be: generally speaking, OU create only allows each individual one (1) domain name, so make sure it is something relevant to you and/or your project. like your domain name to be: generally speaking, OU create only allows each individual one (1) domain name, so make sure it is something relevant to you and/or your project.
 3. After selecting between Custom domain or subdomain, you will be directed to a 'Checkout' page If you selected the subdomain, your payment will be $0. Accept the Terms of Service, and click ***Order Now***.
