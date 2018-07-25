@@ -74,7 +74,7 @@ The difference between the two is cost and URL appearance.
  
  3. You will then be asked to create a title for your website. This will appear at the top of your page to visitors. This and other details like the site description and copyright information can be changed and edited later. 
  4. Once everything is to your satisfaction, hit **Install**.
- 5. You will now be shown a page telling you that Omeka has installed successfully, and offering you to view the **Public Site** that your visitors will see or the **Administrative Dashboard** where you can build your site.
+ 5. You will now be shown a page telling you that Omeka has installed successfully, and offering you to view the **Public Site** that your visitors will see or the **Administrative Dashboard** where you can build your site. 
   
  [Return to Top](#about)
 
