@@ -29,10 +29,11 @@ Anyone with an OU Login can create using OU Create. Once a website is published 
 ## Getting Started Using OU Create.
 ### Creating an account via your OU login
 1. Go to [https://create.ou.edu/](https://create.ou.edu/) and click **Get Started**. You will be asked to enter your OU Login.
+2. You will now be asked to select your web domain name and which kind of domain you would like: **Custom Domain** or **Subdomain**. 
 
 ![Get Started](images/OUCreate001.png)
 
-2. You will now be asked to select your web domain name and which kind of domain you would like: **Custom Domain** or **Subdomain**. The difference between the two is cost and URL appearance.  
+The difference between the two is cost and URL appearance.  
 * A **Custom Domain** can be obtained for $12/year, and looks like [customdomain].com; this has the option of ending in .org or .net as well. 
 * A **Subdomain** option from OU Create is offered for free to OU students, faculty, and staff. It looks like [freesubdomain].oucreate.com, meaning that it is rooted in OU create, but contains your personalized content. This option does not allow for .org or .net.
 * **A tip for naming your domain**: Think carefully about what you would like your domain name to be: generally speaking, OU create only allows each individual one (1) domain name, so make sure it is something relevant to you and/or your project. 
