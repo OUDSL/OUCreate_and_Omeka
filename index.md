@@ -104,7 +104,7 @@ The difference between the two is cost and URL appearance.
  10. There will now be a new folder inside your plugin folder, and it is now available in your website's Omeka Dashboard. If you go back to your Omeka Admin page, select **Plugins**. You will see your new plugin with the green *install* button next to it. Install this as you did with the previously included plugins.
 
  [Return to Top](#about)
-
+ 
 
 ### Appearance
 Currently, the default Omeka theme is called "Thanks Roy." It comes with two other themes to choose from, "Seasons," and "Berlin." You may download other themes from the Omeka website at [http://omeka.org/classic/themes/](http://omeka.org/classic/themes/), and download the same way as the plugins, only this time uploading the files to the **themes** folder.
