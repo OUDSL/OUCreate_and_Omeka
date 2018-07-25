@@ -89,34 +89,42 @@ The difference between the two is cost and URL appearance.
  
  2. For Extra Omeka Plugins, you may download them from the Omeka website at [http://omeka.org/classic/plugins/](http://omeka.org/classic/plugins/)
  3. Find the plugin you wish to download.
- 4. Once the download completes, you will need to login to your OU create account, and select the ***File Manager*** under *Files*.
+ 4. Once the download completes, you will need to login to your OU create account. On the home page (https://create.ou.edu/dashboard/), select *Files*.
+ 
+ ![files location](images/OU_create_008.png)
+ 
  5. In the left hand side of the screen, find the folder called *public_html* and click the **+** button. Scroll down and find and select the *plugins* folder.
+ 
+ ![plugins folder](images/OU_create_009.png)
+ 
  6. Near the top of the page, select the **Upload** button
  7. Click the **Select File** button, and you will now be shown the files in your computer. Locate the plugin you downloaded (either in the downloads folder or wherever you saved it to). You will want to choose the file that ends in .zip, *NOT* the one with the folder icon. After selecting, hit *Open*.
  8. It will now upload your .zip plugin file. After completing the upload, select the **Go back to [yourdomain]** arrow underneath the installation.
  9. Now that you are back in your file manager, find the .zip file you just uploaded (.zip files are underneath the folders). Right click on the zip file and select **Extract**. By default, it will extract to the plugins folder. Select **Extract Files**.
- 10. There will now be a new folder inside your plugin folder that is your new plugin, and is now available in your website's Omeka Dashboard. If you go back to your Omeka Admin page, select **Plugins**, you will see your new plugin with the green *install* button next to it. Install this as you did with the previously included plugins.
+ 10. There will now be a new folder inside your plugin folder, and it is now available in your website's Omeka Dashboard. If you go back to your Omeka Admin page, select **Plugins**. You will see your new plugin with the green *install* button next to it. Install this as you did with the previously included plugins.
 
  [Return to Top](#about)
 
 
 ### Appearance
 Currently, the default Omeka theme is called "Thanks Roy." It comes with two other themes to choose from, "Seasons," and "Berlin." You may download other themes from the Omeka website at [http://omeka.org/classic/themes/](http://omeka.org/classic/themes/), and download the same way as the plugins, only this time uploading the files to the **themes** folder.
-  1. Selecting **Configure Theme** will take you to the place where you can personalize your website's theme by changing the coloring, uploading a header photo or footer text (like the website copyright text), etc.
-  2. Selecting **Navigation** near the top will allow you to customize your site's navigation; you can select a homepage, alter the order in which your plugins and pages appear, and etc.
-  3. The **Settings** tab is numerical; it allows you to decide the pixel image size of images on your site and etc. If you are happy with them, these can be left at the default setting.
+  1. Selecting **Configure Theme** will let you personalize your website's theme by changing the coloring, uploading a header photo, or footer text (like the website's copyright text). Feel free to play around and find the settings you enjoy! 
+  2. Selecting **Navigation** near the top will allow you to customize your site's navigation. You can select a homepage, alter the order in which your plugins and pages appear, and more.
+  3. Under **Appearance**, the **Settings** tab allows you to change the size of your images on your site. Change the pixel number to make the images larger or smaller. If you are happy with them, these can be left at the default setting.
+
+![appearance page](images/ou_create_10.png)
 
   [Return to Top](#about)
 
 ### Users
-At the top next to appearance, you can select **Users**, this is the place where you can add other contributors and admins for your site, and allow them permissions to access the admin dashboard. If you are the only user for your site, you will likely never visit this page.
+At the top of the page next to Appearance and Settings, you can select **Users**. This is the place where you can add other contributors and admins for your site, and allow them permissions to access the admin dashboard. If you are the only user for your site, you will likely never visit this page.
 
 [Return to Top](#about)
 
 ### Settings
-The settings tab at the top next to *Users* is where you can add a site description and copyright information and change the website title and etc.
+The settings tab at the top next to *Users* is where you can add a site description and copyright information and change the website title.
 
-**Omeka has guides for using all of their plugins, visit the omeka plugins page, select the name of the plugin you are using, select *manual* located above the 'version' table over on the right hand side for FAQ's on the specific plugin.**
+**Omeka has guides for using all of their plugins. Visit the omeka plugins page, select the name of the plugin you are using, select *manual* located above the 'version' table over on the right hand side for FAQ's on the specific plugin.**
 
 
 
