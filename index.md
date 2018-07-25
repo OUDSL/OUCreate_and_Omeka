@@ -28,8 +28,8 @@ Anyone with an OU Login can create using OU Create. Once a website is published 
 
 ## Getting Started Using OU Create.
 ### Creating an account via your OU login
-1. Go to [https://create.ou.edu/](https://create.ou.edu/) and click **Get Started**. You will be asked to enter your OU Login.
-2. You will now be asked to select your web domain name and which kind of domain you would like: **Custom Domain** or **Subdomain**. 
+* Go to [https://create.ou.edu/](https://create.ou.edu/) and click **Get Started**. You will be asked to enter your OU Login.
+* You will now be asked to select your web domain name and which kind of domain you would like: **Custom Domain** or **Subdomain**. 
 
 ![Get Started](images/OUCreate001.png)
 
@@ -38,9 +38,9 @@ The difference between the two is cost and URL appearance.
 * A **Subdomain** option from OU Create is offered for free to OU students, faculty, and staff. It looks like [freesubdomain].oucreate.com, meaning that it is rooted in OU create, but contains your personalized content. This option does not allow for .org or .net.
 * **A tip for naming your domain**: Think carefully about what you would like your domain name to be: generally speaking, OU create only allows each individual one (1) domain name, so make sure it is something relevant to you and/or your project. 
 
-3. After selecting between Custom domain or subdomain, you will be directed to a 'Checkout' page. If you selected the subdomain, your payment will be $0. Accept the Terms of Service, and click ***Order Now***.
+* After selecting between Custom domain or subdomain, you will be directed to a 'Checkout' page. If you selected the subdomain, your payment will be $0. Accept the Terms of Service, and click ***Order Now***.
 
-4. Sign out of OU Create, and then sign back in. You will now see a control panel with Applications, Domains, and Files.
+* Sign out of OU Create, and then sign back in. You will now see a control panel with Applications, Domains, and Files.
 
 ![New OU Create Home Screen](images/OU_Create_002.png)
 
@@ -50,13 +50,13 @@ The difference between the two is cost and URL appearance.
   
 ## Using Omeka to build your OU Create Site
 ### Installing Omeka
- 1. Login to your OU Create account.
- 2. Select Omeka from the Applications section at the top.
- 3. Select **Install this Application**
+ * Login to your OU Create account.
+ * Select Omeka from the Applications section at the top.
+ * Select **Install this Application**
  
  ![Install Page](images/OU_create_003.png)
  
- 4. You will now be directed to make decisions on where to install Omeka. In many cases this will be your main domain, but if you have subdomains you can select which one to use from the dropdown menu. The latest version and English language are selected by default. You can then decide if you would like Omeka to automatically update or not, and if you want to create a backup for the site (this is recommended). If there is an update, and the update creates any errors on your page, this backup will restore the original, error-free version.
+ * You will now be directed to make decisions on where to install Omeka. In many cases this will be your main domain, but if you have subdomains you can select which one to use from the dropdown menu. The latest version and English language are selected by default. You can then decide if you would like Omeka to automatically update or not, and if you want to create a backup for the site (this is recommended). If there is an update, and the update creates any errors on your page, this backup will restore the original, error-free version.
     - You next need to enter an administrative username and password; this is how you will access the Omeka dashboard to edit your site. Also enter the email address you will use as the administer of the site, and select the name of your website. This will be the name that shows up on the web page, and does not have to match the domain name. This is how you will access the Omeka dashboard to edit your site. 
     - You can use the default advanced settings, or you can customize them to personal preference, including whether you would like email notifications prior to updates and how often to automatically back-up the site.
     - Once you are satisfied, click **Install**.
@@ -67,50 +67,50 @@ The difference between the two is cost and URL appearance.
 
 ![Image of links](images/ou_create_004.png) 
 
- 1. After installation is complete, click the admin website link to configure your installation.
- 2. When you visit the site for the first time, you will be asked to enter a username, password, and email for the admin for the site (yourself). This login information allows you to make edits to the site.
+ * After installation is complete, click the admin website link to configure your installation.
+ * When you visit the site for the first time, you will be asked to enter a username, password, and email for the admin for the site (yourself). This login information allows you to make edits to the site.
  
  ![Enter Username Screen](images/ou_create_5.png)
  
- 3. You will then be asked to create a title for your website. This will appear at the top of your page to visitors. This and other details like the site description and copyright information can be changed and edited later. 
- 4. Once everything is to your satisfaction, hit **Install**.
- 5. You will now be shown a page telling you that Omeka has installed successfully, and offering you to view the **Public Site** that your visitors will see or the **Administrative Dashboard** where you can build your site. 
+ * You will then be asked to create a title for your website. This will appear at the top of your page to visitors. This and other details like the site description and copyright information can be changed and edited later. 
+ * Once everything is to your satisfaction, hit **Install**.
+ * You will now be shown a page telling you that Omeka has installed successfully, and offering you to view the **Public Site** that your visitors will see or the **Administrative Dashboard** where you can build your site. 
   
  [Return to Top](#about)
 
 ## Navigating Omeka
 ### Plugins
 
- 1. Plugins are the building blocks to customize your website. When you download Omeka, you automatically get the most utilized plugins, but you must still install to get them running on your site. For these plugins, simply click **install**. You will be given options to personalize the plugin, or you may keep the default settings.
+ * Plugins are the building blocks to customize your website. When you download Omeka, you automatically get the most utilized plugins, but you must still install to get them running on your site. For these plugins, simply click **install**. You will be given options to personalize the plugin, or you may keep the default settings.
  
  ![plugins](images/ou_create_006.png)
  
  ![plugins screen](images/ou_create_007.png)
  
- 2. For Extra Omeka Plugins, you may download them from the Omeka website at [http://omeka.org/classic/plugins/](http://omeka.org/classic/plugins/)
- 3. Find the plugin you wish to download.
- 4. Once the download completes, you will need to login to your OU create account. On the home page (https://create.ou.edu/dashboard/), select *Files*.
+ * For Extra Omeka Plugins, you may download them from the Omeka website at [http://omeka.org/classic/plugins/](http://omeka.org/classic/plugins/)
+ * Find the plugin you wish to download.
+ * Once the download completes, you will need to login to your OU create account. On the home page (https://create.ou.edu/dashboard/), select *Files*.
  
  ![files location](images/OU_create_008.png)
  
- 5. In the left hand side of the screen, find the folder called *public_html* and click the **+** button. Scroll down and find and select the *plugins* folder.
+ * In the left hand side of the screen, find the folder called *public_html* and click the **+** button. Scroll down and find and select the *plugins* folder.
  
  ![plugins folder](images/OU_create_009.png)
  
- 6. Near the top of the page, select the **Upload** button
- 7. Click the **Select File** button, and you will now be shown the files in your computer. Locate the plugin you downloaded (either in the downloads folder or wherever you saved it to). You will want to choose the file that ends in .zip, *NOT* the one with the folder icon. After selecting, hit *Open*.
- 8. It will now upload your .zip plugin file. After completing the upload, select the **Go back to [yourdomain]** arrow underneath the installation.
- 9. Now that you are back in your file manager, find the .zip file you just uploaded (.zip files are underneath the folders). Right click on the zip file and select **Extract**. By default, it will extract to the plugins folder. Select **Extract Files**.
- 10. There will now be a new folder inside your plugin folder, and it is now available in your website's Omeka Dashboard. If you go back to your Omeka Admin page, select **Plugins**. You will see your new plugin with the green *install* button next to it. Install this as you did with the previously included plugins.
+ * Near the top of the page, select the **Upload** button
+ * Click the **Select File** button, and you will now be shown the files in your computer. Locate the plugin you downloaded (either in the downloads folder or wherever you saved it to). You will want to choose the file that ends in .zip, *NOT* the one with the folder icon. After selecting, hit *Open*.
+ * It will now upload your .zip plugin file. After completing the upload, select the **Go back to [yourdomain]** arrow underneath the installation.
+ * Now that you are back in your file manager, find the .zip file you just uploaded (.zip files are underneath the folders). Right click on the zip file and select **Extract**. By default, it will extract to the plugins folder. Select **Extract Files**.
+ * There will now be a new folder inside your plugin folder, and it is now available in your website's Omeka Dashboard. If you go back to your Omeka Admin page, select **Plugins**. You will see your new plugin with the green *install* button next to it. Install this as you did with the previously included plugins.
 
  [Return to Top](#about)
  
 
 ### Appearance
 Currently, the default Omeka theme is called "Thanks Roy." It comes with two other themes to choose from, "Seasons," and "Berlin." You may download other themes from the Omeka website at [http://omeka.org/classic/themes/](http://omeka.org/classic/themes/), and download the same way as the plugins, only this time uploading the files to the **themes** folder.
-  1. Selecting **Configure Theme** will let you personalize your website's theme by changing the coloring, uploading a header photo, or footer text (like the website's copyright text). Feel free to play around and find the settings you enjoy! 
-  2. Selecting **Navigation** near the top will allow you to customize your site's navigation. You can select a homepage, alter the order in which your plugins and pages appear, and more.
-  3. Under **Appearance**, the **Settings** tab allows you to change the size of your images on your site. Change the pixel number to make the images larger or smaller. If you are happy with them, these can be left at the default setting.
+  * Selecting **Configure Theme** will let you personalize your website's theme by changing the coloring, uploading a header photo, or footer text (like the website's copyright text). Feel free to play around and find the settings you enjoy! 
+  * Selecting **Navigation** near the top will allow you to customize your site's navigation. You can select a homepage, alter the order in which your plugins and pages appear, and more.
+  * Under **Appearance**, the **Settings** tab allows you to change the size of your images on your site. Change the pixel number to make the images larger or smaller. If you are happy with them, these can be left at the default setting.
 
 ![appearance page](images/ou_create_10.png)
 
