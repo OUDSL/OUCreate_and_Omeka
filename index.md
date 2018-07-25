@@ -120,7 +120,7 @@ Currently, the default Omeka theme is called "Thanks Roy." It comes with two oth
 At the top of the page next to Appearance and Settings, you can select **Users**. This is the place where you can add other contributors and admins for your site, and allow them permissions to access the admin dashboard. If you are the only user for your site, you will likely never visit this page.
 
 [Return to Top](#about)
-
+ 
 ### Settings
 The settings tab at the top next to *Users* is where you can add a site description and copyright information and change the website title.
 
