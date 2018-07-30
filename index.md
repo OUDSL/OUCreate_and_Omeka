@@ -124,7 +124,7 @@ Currently, the default Omeka theme is called "Thanks Roy." It comes with two oth
   * Selecting **Navigation** near the top will allow you to customize your site's navigation. You can select a homepage, alter the order in which your plugins and pages appear, and more.
   * Under **Appearance**, the **Settings** tab allows you to change the size of your images on your site. Change the pixel number to make the images larger or smaller. If you are happy with them, these can be left at the default setting.
 
-![appearance page](images/ou_create_10.png)
+![appearance page](images/omeka_004.png)
 
   [Return to Top](#about)
 
