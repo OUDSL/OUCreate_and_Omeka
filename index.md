@@ -81,7 +81,7 @@ The difference between the two is cost and URL appearance.
 ## Navigating Omeka
 ### Plugins
 
- * Plugins are the building blocks to customize your website. When you download Omeka, you automatically get the most utilized plugins, but you must still install to get them running on your site. For these plugins, simply click **install**. You will be given options to personalize the plugin, or you may keep the default settings.
+ * Plugins are the building blocks to customize your website. When you download Omeka, you automatically get the most utilized plugins, but you must still install to get them running on your site. For these plugins, simply click **Install**. You will be given options to personalize the plugin, or you may keep the default settings.
  
  ![plugins](images/ou_create_006.png)
  
@@ -109,7 +109,7 @@ The difference between the two is cost and URL appearance.
  
  ![extract location](images/omeka_002.png)
  
- * There will now be a new folder inside of your plugin folder as shown above, and the plugin is now available in your website's Omeka Dashboard. If you go back to your Omeka Admin page, **"http://yoururl.oucreate.com/admin/plugins**, select **Plugins**. 
+ * There will now be a new folder inside of your plugin folder as shown above, and the plugin is now available in your website's Omeka Dashboard. If you go back to your Omeka Admin page, "**http://yoururl.oucreate.com/admin/plugins**", select **Plugins**. 
  
  ![plugins page](images/omeka_003.png)
  
