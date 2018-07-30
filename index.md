@@ -100,14 +100,26 @@ The difference between the two is cost and URL appearance.
  * Near the top of the page, select the **Upload** button
  * Click the **Select File** button, and you will now be shown the files in your computer. Locate the plugin you downloaded (either in the downloads folder or wherever you saved it to). You will want to choose the file that ends in .zip, *NOT* the one with the folder icon. After selecting, hit *Open*.
  * It will now upload your .zip plugin file. After completing the upload, select the **Go back to [yourdomain]** arrow underneath the installation.
- * Now that you are back in your file manager, find the .zip file you just uploaded (.zip files are underneath the folders). Right click on the zip file and select **Extract**. By default, it will extract to the plugins folder. Select **Extract Files**.
- * There will now be a new folder inside your plugin folder, and it is now available in your website's Omeka Dashboard. If you go back to your Omeka Admin page, select **Plugins**. You will see your new plugin with the green *install* button next to it. Install this as you did with the previously included plugins.
+ * Now that you are back in your file manager, find the .zip file you just uploaded (.zip files are underneath the folders). Make sure that your Neatline zip file is in the Plugins folder. If it's not, simply right click it and select **Move.** A small screen will pop up asking where you would like to move this file to. Paste in **/public_html/plugins** and it will move the file to your **Plugins** folder.
+* Right click on the zip file and select **Extract**. Select **Extract Files**.
+ 
+ ![extract button](images/omeka_001.png)
+ 
+ This is what your Plugins folder should now look like:
+ 
+ ![extract location](images/omeka_002.png)
+ 
+ * There will now be a new folder inside of your plugin folder as shown above, and the plugin is now available in your website's Omeka Dashboard. If you go back to your Omeka Admin page, **"http://yoururl.oucreate.com/admin/plugins**, select **Plugins**. 
+ 
+ ![plugins page](images/omeka_003.png)
+ 
+ * You will see your new plugin with the green *install* button next to it, so go ahead and click **Install**!  
 
  [Return to Top](#about)
  
 
 ### Appearance
-Currently, the default Omeka theme is called "Thanks Roy." It comes with two other themes to choose from, "Seasons," and "Berlin." You may download other themes from the Omeka website at [http://omeka.org/classic/themes/](http://omeka.org/classic/themes/), and download the same way as the plugins, only this time uploading the files to the **themes** folder.
+Currently, the default Omeka theme is called "Thanks Roy." It comes with two other themes to choose from: "Seasons," and "Berlin." You may download other themes from the Omeka website at [http://omeka.org/classic/themes/](http://omeka.org/classic/themes/), and download the same way as the plugins, only this time uploading the files to the **themes** folder.
   * Selecting **Configure Theme** will let you personalize your website's theme by changing the coloring, uploading a header photo, or footer text (like the website's copyright text). Feel free to play around and find the settings you enjoy! 
   * Selecting **Navigation** near the top will allow you to customize your site's navigation. You can select a homepage, alter the order in which your plugins and pages appear, and more.
   * Under **Appearance**, the **Settings** tab allows you to change the size of your images on your site. Change the pixel number to make the images larger or smaller. If you are happy with them, these can be left at the default setting.
